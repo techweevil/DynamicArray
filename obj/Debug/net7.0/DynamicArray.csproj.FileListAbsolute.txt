@@ -1,0 +1,15 @@
+/home/weevil/Documents/_c#/DynamicArray/bin/Debug/net7.0/DynamicArray
+/home/weevil/Documents/_c#/DynamicArray/bin/Debug/net7.0/DynamicArray.deps.json
+/home/weevil/Documents/_c#/DynamicArray/bin/Debug/net7.0/DynamicArray.runtimeconfig.json
+/home/weevil/Documents/_c#/DynamicArray/bin/Debug/net7.0/DynamicArray.dll
+/home/weevil/Documents/_c#/DynamicArray/bin/Debug/net7.0/DynamicArray.pdb
+/home/weevil/Documents/_c#/DynamicArray/obj/Debug/net7.0/DynamicArray.csproj.AssemblyReference.cache
+/home/weevil/Documents/_c#/DynamicArray/obj/Debug/net7.0/DynamicArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/weevil/Documents/_c#/DynamicArray/obj/Debug/net7.0/DynamicArray.AssemblyInfoInputs.cache
+/home/weevil/Documents/_c#/DynamicArray/obj/Debug/net7.0/DynamicArray.AssemblyInfo.cs
+/home/weevil/Documents/_c#/DynamicArray/obj/Debug/net7.0/DynamicArray.csproj.CoreCompileInputs.cache
+/home/weevil/Documents/_c#/DynamicArray/obj/Debug/net7.0/DynamicArray.dll
+/home/weevil/Documents/_c#/DynamicArray/obj/Debug/net7.0/refint/DynamicArray.dll
+/home/weevil/Documents/_c#/DynamicArray/obj/Debug/net7.0/DynamicArray.pdb
+/home/weevil/Documents/_c#/DynamicArray/obj/Debug/net7.0/DynamicArray.genruntimeconfig.cache
+/home/weevil/Documents/_c#/DynamicArray/obj/Debug/net7.0/ref/DynamicArray.dll
